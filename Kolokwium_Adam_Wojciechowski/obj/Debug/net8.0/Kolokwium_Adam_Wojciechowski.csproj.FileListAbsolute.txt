@@ -1,0 +1,14 @@
+D:\STUDIA\Kolokwium_Adam_Wojciechowski\Kolokwium_Adam_Wojciechowski\bin\Debug\net8.0\Kolokwium_Adam_Wojciechowski.exe
+D:\STUDIA\Kolokwium_Adam_Wojciechowski\Kolokwium_Adam_Wojciechowski\bin\Debug\net8.0\Kolokwium_Adam_Wojciechowski.deps.json
+D:\STUDIA\Kolokwium_Adam_Wojciechowski\Kolokwium_Adam_Wojciechowski\bin\Debug\net8.0\Kolokwium_Adam_Wojciechowski.runtimeconfig.json
+D:\STUDIA\Kolokwium_Adam_Wojciechowski\Kolokwium_Adam_Wojciechowski\bin\Debug\net8.0\Kolokwium_Adam_Wojciechowski.dll
+D:\STUDIA\Kolokwium_Adam_Wojciechowski\Kolokwium_Adam_Wojciechowski\bin\Debug\net8.0\Kolokwium_Adam_Wojciechowski.pdb
+D:\STUDIA\Kolokwium_Adam_Wojciechowski\Kolokwium_Adam_Wojciechowski\obj\Debug\net8.0\Kolokwium_Adam_Wojciechowski.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIA\Kolokwium_Adam_Wojciechowski\Kolokwium_Adam_Wojciechowski\obj\Debug\net8.0\Kolokwium_Adam_Wojciechowski.AssemblyInfoInputs.cache
+D:\STUDIA\Kolokwium_Adam_Wojciechowski\Kolokwium_Adam_Wojciechowski\obj\Debug\net8.0\Kolokwium_Adam_Wojciechowski.AssemblyInfo.cs
+D:\STUDIA\Kolokwium_Adam_Wojciechowski\Kolokwium_Adam_Wojciechowski\obj\Debug\net8.0\Kolokwium_Adam_Wojciechowski.csproj.CoreCompileInputs.cache
+D:\STUDIA\Kolokwium_Adam_Wojciechowski\Kolokwium_Adam_Wojciechowski\obj\Debug\net8.0\Kolokwium_Adam_Wojciechowski.dll
+D:\STUDIA\Kolokwium_Adam_Wojciechowski\Kolokwium_Adam_Wojciechowski\obj\Debug\net8.0\refint\Kolokwium_Adam_Wojciechowski.dll
+D:\STUDIA\Kolokwium_Adam_Wojciechowski\Kolokwium_Adam_Wojciechowski\obj\Debug\net8.0\Kolokwium_Adam_Wojciechowski.pdb
+D:\STUDIA\Kolokwium_Adam_Wojciechowski\Kolokwium_Adam_Wojciechowski\obj\Debug\net8.0\Kolokwium_Adam_Wojciechowski.genruntimeconfig.cache
+D:\STUDIA\Kolokwium_Adam_Wojciechowski\Kolokwium_Adam_Wojciechowski\obj\Debug\net8.0\ref\Kolokwium_Adam_Wojciechowski.dll
